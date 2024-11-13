@@ -1,0 +1,101 @@
+{
+  "profile": {
+    "name": "Rohan Ghosh",
+    "role": "Full Stack Developer",
+    "bio": "Passionate full-stack developer with expertise in building scalable web applications. I transform ideas into elegant solutions.",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+    "resumeUrl": "/resume.pdf",
+    "email": "rohanghosh204@gmail.com"
+  },
+  "skills": [
+    {
+      "name": "Next.js",
+      "level": 90
+    },
+    {
+      "name": "React",
+      "level": 90
+    },
+    {
+      "name": "Node.js",
+      "level": 90
+    },
+    {
+      "name": "TypeScript",
+      "level": 50
+    },
+    {
+      "name": "MongoDB",
+      "level": 70
+    },
+    {
+      "name": "SQL",
+      "level": 70
+    },
+    {
+      "name": "AWS",
+      "level": 40
+    },
+    {
+      "name": "Git",
+      "level": 90
+    }
+  ],
+  "projects": [
+    {
+      "title": "Fujn Global",
+      "description": "Worked on the Node.js backend for Fujn, building and optimizing APIs to support the platform's web and mobile applications, ensuring scalability, security, and seamless functionality.",
+      "image": "/fujn.png",
+      "tech": [
+        "Node.js",
+        "SQL"
+      ],
+      "link": "https://fujn.global/",
+      "personal": false,
+      "role": "Backend Developer",
+      "github": ""
+    },
+    {
+      "title": "SportConn",
+      "description": "Contributed as a full-stack developer, working with Next.js for the frontend and Node.js for the backend. Built and optimized features for a seamless user experience, including dynamic content rendering, API integration, and performance enhancements.",
+      "image": "/sportconn.png",
+      "tech": [
+        "Next.js",
+        "Nodejs",
+        "Mongodb"
+      ],
+      "link": "https://www.sportconn.com/",
+      "personal": false,
+      "role": "Full Stack Developer",
+      "github": ""
+    },
+    {
+      "title": "Instagram clone",
+      "description": "Independently developed an Instagram clone using Next.js and MongoDB. Implemented features such as user authentication, image uploads, posts, likes, and comments, providing a seamless and responsive user experience.",
+      "image": "https://cdn.dribbble.com/users/993809/screenshots/15379093/media/28ecbb5086794a803c5bc74743713072.png?resize=400x300&vertical=center",
+      "tech": [
+        "Next.js",
+        "Nodejs",
+        "Mongodb"
+      ],
+      "link": "https://instagram-clone-nine-chi.vercel.app/",
+      "personal": true,
+      "role": "Full Stack Developer",
+      "github": "https://github.com/rohanghosh01/instagram-clone"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Newton School",
+      "role": "Full Stack Development Intern",
+      "period": "2021 - 2022",
+      "description": "During my internship, I gained hands-on experience with JavaScript and React, learning the fundamentals of building dynamic and responsive user interfaces. I also enhanced my problem-solving skills by practicing data structures and algorithms (DSA), which helped me understand efficient coding practices and optimize application performance. This experience laid a strong foundation for my career in web development."
+    },
+    {
+      "company": " Ideal IT Techno",
+      "role": "Software Developer",
+      "period": "2022 - Present",
+      "description": "Over the past two years, I have gained extensive experience as a full-stack developer, working on dynamic and scalable web applications. At Fujn, I developed robust Node.js backend services, ensuring seamless integration for both web and mobile platforms. I independently built an Instagram clone using Next.js and MongoDB, implementing features like authentication, image uploads, posts, likes, and comments to provide a smooth user experience. Additionally, I contributed to SportConn as a full-stack developer, utilizing Next.js for the frontend and Node.js for the backend to deliver high-performance and user-friendly solutions."
+    }
+  ]
+}
