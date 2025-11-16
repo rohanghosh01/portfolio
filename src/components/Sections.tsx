@@ -12,6 +12,7 @@ import {
 import portfolioData from "../data/portfolio.json";
 import Hero3D from "./Hero3D";
 import { motion } from "framer-motion";
+import { p } from "framer-motion/client";
 
 const GradientButton = ({
   children,
@@ -56,14 +57,13 @@ export const Hero = () => (
             </span>
           </h1>
           <h2 className="text-3xl text-gray-700 dark:text-gray-300 mb-6">
-            Full Stack Developer
+            {portfolioData.profile.role}
           </h2>
           <p className="text-xl text-gray-600 dark:text-gray-400 mb-8">
-            Passionate full-stack developer with 2+ years of experience building
-            scalable web applications using Node.js, React, and Next.js.
+            {portfolioData.profile.bio}
           </p>
           <div className="flex gap-4 max-sm:flex-col items-center">
-            <GradientButton href="/Resume.pdf">
+            <GradientButton href={portfolioData.profile.resumeUrl} className="">
               <Download size={20} /> Download Resume
             </GradientButton>
             <div className="flex gap-4 ">

@@ -86,16 +86,16 @@
   ],
   "experience": [
     {
-      "company": "Newton School",
-      "role": "Full Stack Development Intern",
-      "period": "2021 - 2022",
-      "description": "During my internship, I gained hands-on experience with JavaScript and React, learning the fundamentals of building dynamic and responsive user interfaces. I also enhanced my problem-solving skills by practicing data structures and algorithms (DSA), which helped me understand efficient coding practices and optimize application performance. This experience laid a strong foundation for my career in web development."
+      "company": " Ideal IT Techno",
+      "role": "Software Engineer",
+      "period": "Dec 2022 – Feb 2025",
+      "description": "Over the past two years, I have gained extensive experience as a full-stack developer, working on dynamic and scalable web applications. At Fujn, I developed robust Node.js backend services, ensuring seamless integration for both web and mobile platforms. I independently built an Instagram clone using Next.js and MongoDB, implementing features like authentication, image uploads, posts, likes, and comments to provide a smooth user experience. Additionally, I contributed to SportConn as a full-stack developer, utilizing Next.js for the frontend and Node.js for the backend to deliver high-performance and user-friendly solutions."
     },
     {
-      "company": " Ideal IT Techno",
-      "role": "Software Developer",
-      "period": "2022 - Present",
-      "description": "Over the past two years, I have gained extensive experience as a full-stack developer, working on dynamic and scalable web applications. At Fujn, I developed robust Node.js backend services, ensuring seamless integration for both web and mobile platforms. I independently built an Instagram clone using Next.js and MongoDB, implementing features like authentication, image uploads, posts, likes, and comments to provide a smooth user experience. Additionally, I contributed to SportConn as a full-stack developer, utilizing Next.js for the frontend and Node.js for the backend to deliver high-performance and user-friendly solutions."
+      "company": "India Infotech",
+      "role": "Software Engineer",
+      "period": "Feb 2025 – Present",
+      "description": "Led full-stack development of web and mobile apps (React Native, Next.js, Node.js, PostgreSQL), building scalable real-time backends and improving performance with a 30% faster API and enhanced UX."
     }
   ]
 }
